@@ -1,4 +1,4 @@
 # Sample Portfolio
-Practice projects for IBM Data Science Professional Certificate
+This is my repository of projects I completed for the IBM Data Science Professional Certificate on Coursera.
 
 #Test
